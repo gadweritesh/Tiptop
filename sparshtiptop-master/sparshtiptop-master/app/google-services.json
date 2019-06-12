@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "644969156269",
+    "firebase_url": "https://sparshtiptop.firebaseio.com",
+    "project_id": "sparshtiptop",
+    "storage_bucket": "sparshtiptop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644969156269:android:93abd26faf777985",
+        "android_client_info": {
+          "package_name": "com.relecotech.androidsparsh_tiptop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644969156269-rcojal92b6aem1l5lq4n0via5m97m5rv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "644969156269-rcojal92b6aem1l5lq4n0via5m97m5rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC924b9ZD6m7h9gx82_NXKAG_lhAsfuGiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
